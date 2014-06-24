@@ -8,3 +8,6 @@ YAL
 Contributors
 ==
 MarketMaps
+
+Skip Collaborators with MarketMaps already accepted
+==
