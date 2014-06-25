@@ -8,3 +8,6 @@ YAL
 Contributors
 ==
 MarketMaps
+
+Custom Redis config
+==
